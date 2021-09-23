@@ -1,0 +1,5 @@
+HyperVisorPlatform
+Microsoft-Hyper-V-All
+VirtualMachinePlatform
+Containers
+Microsoft-Windows-Subsystem-Linux
