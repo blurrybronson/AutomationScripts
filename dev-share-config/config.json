@@ -1,0 +1,16 @@
+{
+    "settings":[
+        {
+            "directory":"c:\\crackmes",
+            "name":"crackmes",
+            "user":"dev",
+            "access":"Read"
+        },
+        {
+            "directory":"c:\\scripts-testing",
+            "name":"scripts-testing",
+            "user":"dev",
+            "access":"Read"
+        }
+    ]
+}
