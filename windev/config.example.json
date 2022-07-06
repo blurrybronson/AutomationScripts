@@ -1,0 +1,24 @@
+{
+    "keyvault":[
+        {
+            "VaultName":"",
+            "SecretName":""
+        }
+    ],
+    "user":[
+        {
+            "Username":"",
+            "Group":""
+        }
+    ],
+    "directories":[
+        {
+            "Name":"",
+            "Path":""
+        },
+        {
+            "Name":"",
+            "Path":""
+        }
+    ]
+}
