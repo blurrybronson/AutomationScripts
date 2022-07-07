@@ -1,0 +1,8 @@
+{
+    "settings":[
+        {
+            "machine_name":"<your_vm_name>",
+            "snapshot_name":"<your_snapshot_name>"
+        }
+    ]
+}
